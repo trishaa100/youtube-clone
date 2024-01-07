@@ -1,0 +1,100 @@
+main {
+  display: flex;
+}
+
+#main-container {
+  height: 155vh;
+  width: 100%;
+  margin-top: 2rem;
+  padding-left: 1.5rem;
+}
+
+.filter-container {
+  display: flex;
+}
+
+.filter {
+  margin: 0.75rem 0.375rem;
+  background-color: #f0f0f0;
+  padding: 0.375rem 0.75rem;
+  border: rgb(249, 246, 246);
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+.filter:hover {
+  background-color: #545454;
+}
+
+.filter:nth-child(4) {
+  background-color: aqua;
+}
+
+.video-container {
+  height: 21rem;
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  margin-top: 1.5rem;
+}
+
+.box-1 {
+  height: 300px;
+  width: 420px;
+  background-color: #ffffff;
+}
+
+.box-1 iframe {
+  border-radius: 1rem;
+}
+
+.profile2 {
+  display: flex;
+}
+
+.profile2 i {
+  height: 35px;
+  width: 35px;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-top: 5px;
+}
+
+.profile2 a {
+  text-decoration: none;
+  color: #0f0f0f;
+  margin-top: 5px;
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.learn {
+  margin-left: 45px;
+  line-height: 20px;
+}
+
+.learn a {
+  text-decoration: none;
+  color: #71728d;
+  font-size: 14px;
+  margin-top: 1.5rem;
+}
+
+.video-container-2 {
+  height: 21rem;
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  margin-top: 1.5rem;
+}
+
+.video-container-3 {
+  height: 21rem;
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  margin-top: 1.5rem;
+}

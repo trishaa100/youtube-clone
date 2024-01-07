@@ -1,0 +1,42 @@
+#sidebar {
+  height: 155vh;
+  width: 18.75rem;
+  background-color: white;
+  margin-top: 2rem;
+  padding-left: 0.5rem;
+  overflow: scroll;
+}
+
+.sidebar-menu-item a {
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+  margin-left: 0.75rem;
+}
+
+.sidebar-menu-item i {
+  font-size: 1rem;
+}
+
+.sidebar-menu-item {
+  border-radius: 1rem;
+  padding: 1rem 0.5rem;
+  margin: 0 0.5rem;
+}
+
+.sidebar-menu-item:hover {
+  background-color: #f0f0f0;
+}
+
+.description {
+  font-size: 0.9rem;
+  margin-top: 1.25rem;
+  opacity: 1;
+}
+
+.description a {
+  text-decoration: none;
+  color: black;
+  opacity: 0.9;
+  font-size: 0.8rem;
+}

@@ -1,0 +1,101 @@
+.header {
+    height: 5rem;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    color: #000000
+}
+
+.icon {
+    margin-left: 1.30rem;
+
+}
+
+.icon i {
+    font-size: 1.30rem;
+   
+}
+
+svg {
+    height: 2rem;
+    margin-right: 85rem;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin-top: -3.9rem;
+    opacity: 0.9;
+}
+
+.search input {
+    height: 2.5rem;
+    width: 31.25rem;
+    background-color:transparent;
+    border-radius: 1.9rem;
+    padding-left: 1.25rem;  
+}
+
+.search-button {
+    margin-left: 61rem;
+    margin-top: -2.1rem;
+    font-size: 1.25rem;
+    opacity: 0.7;
+}
+
+.mic {
+    margin-left: 64.5rem;
+    margin-top: -2.1rem;
+    font-size: 1.25rem;
+}
+
+.mic i {
+    height: 2.5rem;
+    width: 2.5rem; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: rgb(249, 246, 246);
+}
+
+.create {
+    margin-left: 85rem;
+    margin-top: -2.3rem;
+    font-size: 1.25rem;
+}
+
+.notifications {
+    margin-left: 88rem;
+    margin-top: -1.5rem;
+    font-size: 1.25rem;
+}
+
+.user-profile {
+    margin-left: 91rem;
+    margin-top: -1.7rem;
+    font-size: 1rem;
+}
+
+.user-profile i {
+    height: 2.2rem;
+    width: 2.2rem; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: rgb(249, 246, 246);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
